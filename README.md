@@ -32,7 +32,7 @@ The first thing to do is to clone the [Starter Code Repository](https://github.c
 
 Type `npm init` in the terminal to get `package.json`.
 
-Type `npm install` in the terminal to install this project.
+Type `npm install express` in the terminal to install dependencies for the project.
 
 ## Table of Contents
 * [Description](#description)
@@ -51,7 +51,9 @@ Type `npm install` in the terminal to install this project.
 
 
 ## Utilized Resources
-* 
+* [Express.js Crash Course](https://www.youtube.com/watch?v=L72fhGm1tfE)
+* [Port](https://stackoverflow.com/questions/18864677/what-is-process-env-port-in-node-js)
+
 
 ## Contact
 As always if you have any questions my GitHub user name is `hhealing123` and you can reach out to me at `hhealing123@gmail.com`!
