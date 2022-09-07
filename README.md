@@ -1,7 +1,7 @@
 # Express.js Challenge: Note Taker
 
 ## Description
-This week's challenge is to create an application called `Note Taker` that can be used to write and save notes. The application will use an Express.js back-end and will save and retrieve note data from a JSON file. Note that the application's front-end has already been created om the [Starter Code Repository](https://github.com/coding-boot-camp/miniature-eureka), so make sure to clone the starter code repository and make my own repository with the starter code. The primary task is to build the back-end, connect the two, and then deploy the entire application to Heroku.
+This week's challenge is to create an application called `Note Taker` that can be used to write and save notes. The application will use an Express.js back-end and will save and retrieve note data from a JSON file. Note that the application's front-end has already been created on the [Starter Code Repository](https://github.com/coding-boot-camp/miniature-eureka), so make sure to clone the starter code repository and make my own repository with the starter code. The primary task is to build the back-end, connect the two, and then deploy the entire application to Heroku.
 
 ## User Story
 ```
@@ -53,7 +53,7 @@ Note that there is no testing for this project!
 [Project Video Demo](https://user-images.githubusercontent.com/106945679/189002230-1a3d096f-ad7c-494f-a31d-07efaae2e22d.mp4)
 
 ## Heroku Deployed Link
-[Link to Deployed app @ Heroku](https://dashboard.heroku.com/apps/week11-express-note-taker)
+[Link to Deployed app @ Heroku](https://week11-express-note-taker.herokuapp.com/)
 
 ## Final Thoughts
 Although this week's project was not particularly hard; however, I had to google, watch Express.js tutorial video, and read class notes to better understand purpose of different express methods and identify the correct syntax for setting up the server. For instance, I forgot the syntax of diffrent express methods, such as get() and post(). Overall, the project itself was interesting because this was my first time handling back-end web application framework; in addition, I got exposed to using Heroku - a platform service that allows developers to build, run, and operate applications on the cloud server. 
