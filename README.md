@@ -34,6 +34,10 @@ Type `npm init` in the terminal to get `package.json`.
 
 Type `npm install express` in the terminal to install dependencies for the project.
 
+Type `node server.js` to initiate the server.
+
+Note that there is no testing for this project!
+
 ## Table of Contents
 * [Description](#description)
 * [User Story](#user-story)
