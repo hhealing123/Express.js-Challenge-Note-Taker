@@ -44,12 +44,16 @@ Note that there is no testing for this project!
 * [Acceptance Criteria](#acceptance-criteria)
 * [Installation & Usage](#installation--usage--tests)
 * [Project Demo](#project-demonstration)
+* [Heroku Deployed Link](#heroku-deployed-link)
 * [Final Thoughts](#final-thoughts)
 * [Utilized Resources](#utilized-resources)
 * [Contact](#contact)
 
 ## Project Demonstration
 [Project Video Demo](https://user-images.githubusercontent.com/106945679/189002230-1a3d096f-ad7c-494f-a31d-07efaae2e22d.mp4)
+
+## Heroku Deployed Link
+[Link to Deployed app @ Heroku](https://dashboard.heroku.com/apps/week11-express-note-taker)
 
 ## Final Thoughts
 Although this week's project was not particularly hard; however, I had to google, watch Express.js tutorial video, and read class notes to better understand purpose of different express methods and identify the correct syntax for setting up the server. For instance, I forgot the syntax of diffrent express methods, such as get() and post(). Overall, the project itself was interesting because this was my first time handling back-end web application framework; in addition, I got exposed to using Heroku - a platform service that allows developers to build, run, and operate applications on the cloud server. 
